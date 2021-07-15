@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using XadesNetLib.Utils.Certificates;
 using XadesNetLib.Utils.Certificates.Exceptions;
 
